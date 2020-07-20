@@ -1,0 +1,18 @@
+Package: com.advance.AdvanceEditor
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: AdvanceCoder
+Installed-Size: 1372
+Filename: ./debs/com.advance.AdvanceEditor_1.0.3_iphoneos-arm.deb
+Size: 2897516
+MD5sum: 4c44f59953b19fc8fb821b4097c08762
+SHA1: 4ae2e3983c20177bbdb779bc1ce6944b9e1c3641
+SHA256: 340923c4bbbc6a56de62879834724e717e6b925065742899d786410655d76be1
+Section: Tweaks
+Priority: optional
+Description: A memory editor that bypass detections and supports ios 8 to ios14
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: AdvanceCoder <unknownuser11.py@gmail.com>
+Depiction: https://aadvancecoder.github.io/aadvancecoder.github.io/depictions/?p=com.advance.AdvanceEditor
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AdvanceEditor Stable
