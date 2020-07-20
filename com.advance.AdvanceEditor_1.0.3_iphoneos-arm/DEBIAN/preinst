@@ -1,6 +1,0 @@
-#!/bin/bash
-
-launchctl unload -w /Library/LaunchDaemons/xx_daemon.plist
-launchctl unload -w /Library/LaunchDaemons/com.apple.xx.daemon.plist
-
-exit 0
