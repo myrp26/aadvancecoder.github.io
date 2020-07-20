@@ -1,0 +1,23 @@
+<package>
+	<id>com.advance.AdvanceEditor</id>
+	<name>AdvanceEditor Stable</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>It is a memory editor that bypass detection and supports ios 8 to ios 14</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

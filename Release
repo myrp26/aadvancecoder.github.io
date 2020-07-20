@@ -1,0 +1,8 @@
+Origin: AdvanceCoder
+Label: Advance
+Suite: stable
+Version: 1.0
+Codename: AdvanceCoder
+Architectures: iphoneos-arm
+Components: main
+Description: Advancecoder - A fantastic repo.
