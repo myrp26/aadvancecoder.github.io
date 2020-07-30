@@ -1,3 +1,20 @@
+Package: com.AdvanceCoder.Handjoy
+Version: 3.130
+Architecture: iphoneos-arm
+Maintainer: HandJoy <http://hand-joy.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.AdvanceCoder.Handjoy_3.130_iphoneos-arm.deb
+Size: 10041336
+MD5sum: b8bc7787e49436b603cc53e55f8fd6b5
+SHA1: 70e0f1c73a7e04a60bd5b160fd6d81bfacfef40e
+SHA256: 7f60a78200667c18a1920e077d4ac248b03fc61204147d9bd250fc5eddd40bb3
+Section: Tweaks
+Priority: optional
+Description: 注入支持的游戏
+Author: HandJoy & AdvanceCoder
+Icon: file:///Library/MobileSubstrate/DynamicLibraries/touchSettingBundle.bundle/icon-60-r.png
+Name: HandJoy游戏注入器
+
 Package: com.AdvanceHacker.stable
 Version: 12.1
 Architecture: iphoneos-arm
