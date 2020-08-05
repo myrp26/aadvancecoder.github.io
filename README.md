@@ -1,5 +1,4 @@
-# Thank you for using AdvanceCoderRepo
+# Repo by Advance Coder.
 
-This **repo** contains many free resources for you to check out.
-Thank you for your support!
+
 
