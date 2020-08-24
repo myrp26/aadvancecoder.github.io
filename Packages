@@ -15,25 +15,23 @@ Author: HandJoy & AdvanceCoder
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/touchSettingBundle.bundle/icon-60-r.png
 Name: HandJoy游戏注入器
 
-Package: com.AdvanceHacker.stable
+Package: com.advance.AdvEditor
 Version: 12.1
 Architecture: iphoneos-arm
-Maintainer: AdvanceCoder <unknownuser11.py@gmail.com>
+Maintainer: Aqua Wu
 Installed-Size: 1372
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.AdvanceHacker.stable_12.1_iphoneos-arm.deb
-Size: 7015442
-MD5sum: 825fd206f033e153b45dc44478b31034
-SHA1: 9b7aeeeead5e12a445b08875d0214c658d67c1a4
-SHA256: 2f2b46e757cb52aadd287aaabbc1100486c87aa6bbb49bb1d93a882de015701e
-Section: Utilities
+Filename: ./debs/com.advance.AdvEditor_12.1_iphoneos-arm.deb
+Size: 511630
+MD5sum: 0a56e2e7c9a4bd19c405bf82777c4440
+SHA1: f71e4ab76158a2a7c851e49d79238f14df9d25d1
+SHA256: f54bd49c53c2cb6731ddfa8d2ba38d3133d38b2d422de154ffa542311ddbab8c
+Section: Tweaks
 Priority: optional
-Description: A memory editor that bypass multiple games detection
+Description: A memory editor that bypasses most detection
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
 Author: Aqua Wu & AdvanceCoder
-Depiction: https://igg-server.herokuapp.com/
-Name: AdvanceHacker Stable
-Sponsor: AdvanceCoder <unknownuser11.py@gmail.com>
+Name: AdvEditor STABLE
 
 Package: com.advance.AdvanceEditor
 Version: 1.0.3
@@ -52,7 +50,7 @@ Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, comp
 Author: AdvanceCoder <unknownuser11.py@gmail.com>
 Depiction: https://aadvancecoder.github.io/aadvancecoder.github.io/depictions/?p=com.advance.AdvanceEditor
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: AdvanceEditor Stable
+Name: AdvanceEditor
 
 Package: com.bypassjb.AdvanceCoder.beta
 Version: 0.2.12
